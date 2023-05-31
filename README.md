@@ -1,7 +1,8 @@
                                                                 Hi Guys 👋
                                                              Taha Enuştekin
 
-![yazilim](https://github.com/tahaenustekin/Taha-Enustekin/assets/120092879/c7397b32-63ef-4a85-b950-084273d379f2)
+![yazilim](https://github.com/tahaenustekin/tahaenustekin/assets/120092879/d924f3cc-1c35-4080-ba63-a875574138f6)
+
 
     Merhaba, ben Taha Enuştekin. 16.12.2005 doğumluyum bilgisayar ve yazılımdan büyük keyif alıyorum.Teknolojik gelişmeleri yakından
     takip ediyor ve kendimi sürekli olarak geliştirmek istiyorum
