@@ -1,16 +1,26 @@
-### Hi there 👋
+                                                                Hi Guys 👋
+                                                             Taha Enuştekin
 
-<!--
-**tahaenustekin/tahaenustekin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![yazilim](https://github.com/tahaenustekin/Taha-Enustekin/assets/120092879/c7397b32-63ef-4a85-b950-084273d379f2)
 
-Here are some ideas to get you started:
+    Merhaba, ben Taha Enuştekin. 16.12.2005 doğumluyum bilgisayar ve yazılımdan büyük keyif alıyorum.Teknolojik gelişmeleri yakından
+    takip ediyor ve kendimi sürekli olarak geliştirmek istiyorum
+            
+    Yazılım ile Liseye başladığım zaman ilgi duymaya başladım ve o zamandan beri kendimi geliştirmek için uğraşıyorum.
+    Başlangıçta temel programa dilleriyle başlasamda şuan bir çok dil öğrenmek için çabalıyorum.Aynı zamanda, yeni programlama            
+    dilleri ve teknolojiler hakkında da sürekli olarak araştırma yaparak bilgilerimi güncel tutmaya çalışıyorum.
+            
+    Gelecekte Üniversitede yazılım mühendisi,bilgisayar mühendisi veya bilgisayar bilimleri ile ilgili bir bölüm okuyup bu alanda
+    çalışmak istiyorum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umutcansimsek75)](https://github.com/anuraghazra/github-readme-stats)
+            
+ 
+    Linkedin:https://www.linkedin.com/in/taha-enu%C5%9Ftekin-a2805926a
+             
+    Yetenekler/Skills:Flutter /Asp.Net /JS /Html /Css /Php /Unity /C#/Adobe Grafik Tasarım
+---            
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/tahaenustekin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/taha-enu%C5%9Ftekin-a2805926a/)  
+
+
+
